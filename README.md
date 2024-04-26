@@ -24,6 +24,8 @@
 ## Usage
   
   Type 'node index.js' on the command line, hit enter, and follow the prompts.
+
+  Here is a short video on the usage: https://drive.google.com/file/d/1c7dw2NRMon5ne8lKDJJAlM38JmzYT5MV/view
   
 ## Contributions
   
