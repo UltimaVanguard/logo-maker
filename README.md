@@ -5,17 +5,17 @@
   I am creating a logo-maker to make simple SVG logos quickly for a project or just as simple placeholders.
 
 ## Table of Contents
-  [Installation](#Installation)
+  [Installation](#installation)
 
-  [Usage](#Usage)
+  [Usage](#usage)
 
-  [Contributions](#Contributions)
+  [Contributions](#contributions)
 
-  [Licenses](#Licenses)
+  [Licenses](#licenses)
 
-  [Tests](#Tests)
+  [Tests](#tests)
 
-  [Questions](#Questions)
+  [Questions](#questions)
   
 ## Installation
   
