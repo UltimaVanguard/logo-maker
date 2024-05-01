@@ -23,9 +23,11 @@
   
 ## Usage
   
+  Type npm i to install proper dependencies.
+
   Type 'node index.js' on the command line, hit enter, and follow the prompts.
 
-  Here is a short video on the usage: https://drive.google.com/file/d/1c7dw2NRMon5ne8lKDJJAlM38JmzYT5MV/view
+  Here is a short video on the usage: https://drive.google.com/file/d/1CpejV8TCpzMh_skS_SdxZKy9S45qW_2g/view
   
 ## Contributions
   
